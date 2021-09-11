@@ -1,5 +1,4 @@
-var x = require('');
-const APP_PREFIX = 'BudgetTracker-';
+const APP_PREFIX = 'budget-tracker';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 const DATA_CACHE_NAME = 'data-cache-version_01';
