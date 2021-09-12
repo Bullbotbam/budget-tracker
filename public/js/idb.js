@@ -65,11 +65,10 @@ function uploadtransaction() {
 				.catch((err) => {
 					// set reference to redirect back here
 					console.log(err);
-					// saveRecord(formData);
 				});
 		}
 	};
 }
 
 // listen for app coming back online
-window.addeListener('online', uploadtransaction);
+window.addEventListener('online', uploadtransaction);
