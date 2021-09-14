@@ -58,9 +58,7 @@ There may be slight challenges with all functionality as of initial deployment
 
 ## Testing
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/D2gYvSss9QU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+No testing was performed
 
 ## Links
 
