@@ -1,6 +1,7 @@
 # Budget Tracker
 
 <img src="./public/img/budget-tracker-pic2-min.png" alt="chart for app showing entered data" style="width:350px " />
+
 ### _Progressive Web Application_
 
 <br>
@@ -59,11 +60,9 @@ There may be slight challenges with all functionality as of initial deployment
 
 <figure class="video_container">
 
-<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/D2gYvSss9QU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
 
 ## Links
 
