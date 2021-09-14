@@ -60,6 +60,12 @@ There may be slight challenges with all functionality as of initial deployment
 
 No testing was performed
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Links
 
 <img src="./public/img/budget-tracker-pic3-min.png" alt="chart for app with no data" style="width:400px " />
@@ -71,7 +77,7 @@ No testing was performed
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="./public/img/budget-tracker-pic3-min.png" style="width:400px " >
-    <source src="./public/img/Budget-Tracker.mov" type="video/mp4">
+    <source src="./public/img/Busget-Tracker.mov"  type="video/mp4">
     
   </video>
 </figure>
