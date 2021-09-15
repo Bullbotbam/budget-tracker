@@ -1,6 +1,6 @@
 # Budget Tracker
 
-<img src="./public/img/budget-tracker-pic2-min.png" alt="chart for app showing entered data" style="width:350px " />
+![Budget Tracker App Demo](./public/img/Budget_Tracker.gif)
 
 ### _Progressive Web Application_
 
@@ -38,6 +38,8 @@ npm install express mongoose morgan compression
 
 The user will have the ability to download and install the app natively.
 
+<img src="./public/img/budget-tracker-pic2-min.png" alt="chart for app showing entered data" style="width:350px " />
+
 ## Purpose
 
 Keeping track of your information is difficult enough. Now imagine a terrible storm and you are without internet or poor quality service for a period of time. Now imagine you have the capability to conduct offline financial transactions. Explore the world of PWA techonolgy.
@@ -58,27 +60,10 @@ There may be slight challenges with all functionality as of initial deployment
 
 ## Testing
 
-No testing was performed
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+All testing was performed using Heroku deployment and Google Dev Tools.
 
 ## Links
 
 <img src="./public/img/budget-tracker-pic3-min.png" alt="chart for app with no data" style="width:400px " />
 
 [Budget Tracker App](https://warm-lowlands-12680.herokuapp.com/)
-
-[Budget Tracker App Demo](./public/img/Budget-Tracker.mov)
-
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./public/img/budget-tracker-pic3-min.png" style="width:400px " >
-    <source src="./public/img/Busget-Tracker.mov"  type="video/mp4">
-    
-  </video>
-</figure>
-<!-- blank line -->
